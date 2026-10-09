@@ -1,0 +1,8 @@
+{
+  "name": "Kaos",
+  "description": "Kişisel Eklenti Depom",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins.json"
+  ]
+}

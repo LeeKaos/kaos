@@ -1,0 +1,630 @@
+[
+  {
+    "name": "MegaWio",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "0 WioSinema",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "1 TurkishCineStream",
+    "authors": [
+      "Wiojelt",
+      "megix"
+    ]
+  },
+  {
+    "name": "BelgeselX",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "DDizi",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "DiziBox",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "Dizilla",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "DiziBol",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "DiziMom",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "DiziPal",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "DiziRella",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "DiziYou",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "Dmax",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "FilmMakinesi",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "FilmModu",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "FullHDFilm",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "FullHDFilmizlesene",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "HDFilmCehennemi",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "HDFilmDelisi",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "HDFilmizleBest",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "HDFilmIzleInk",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "HDFilmIzleVip",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "InatBox",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "JetFilmizle",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "KultFilmler",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "LiderFilmIzle",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "PowerSinema",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "RecTV",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "SelcukFlix",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "SetFilmIzle",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "SezonlukDizi",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "Sinewix",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "Tlctr",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "TrDiziIzle",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "TvDiziler",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "YabanciDizi",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "YesilCamTv",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "WebteIzle",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "0 WioCinema",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "BingeBang",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "CineCat",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "CineSimkl",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "CineStream",
+    "authors": [
+      "megix"
+    ]
+  },
+  {
+    "name": "ClipBox",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "FlixNetwork",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "Mapple",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "MovieBoxProvider",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "RareFilmm",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "CizgiMax",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "CizgiVeDizi",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "CizgiFilmIzleInfo",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "CizgiFilmTv",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "0 WioSpor",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "1 v10 Spor",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "ArdaSpor",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "BasketballReplays",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "BasketballVideo",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "BetmatikTV",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "BeyazElma",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "DomatesTV",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "DominoTV",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "GolgeTV",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "InatTV",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "JestYayin",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "Kool TV",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "KralSporHD",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "MahsunSports",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "NetVGold",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "PapazSports",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "PatronHD",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "SelcukSports",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "Streamed",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "Taraftarium24",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "TRGoals",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "VionTV",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "LeoTV",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "AtomSpor",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "0 WioAnime",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "AnimeciX",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "Anizium",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "Deokwave",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "TRanimaci",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "TürkAnime (o7)",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "AniArşiv",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "TrAnimeİzle",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "OpenAnime",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "Anizm",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "AsyaAnimeleri",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "DiziAsya",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "DiziKorea",
+    "authors": [
+      "Wiojelt",
+      "CloudStreamTR",
+      "kraptor"
+    ]
+  },
+  {
+    "name": "TRasyalog",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "AsyaWatch",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "WebDramaTurkey",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "DramaDizilerim",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "NetShort",
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "name": "Cloud-Sync",
+    "authors": [
+      "pltmustafa"
+    ]
+  },
+  {
+    "name": "plt-party",
+    "authors": [
+      "pltmustafa"
+    ]
+  },
+  {
+    "name": "plt-tv",
+    "authors": [
+      "pltmustafa"
+    ]
+  },
+  {
+    "name": "trakt-sync",
+    "authors": [
+      "pltmustafa"
+    ]
+  },
+  {
+    "name": "Live Hub",
+    "authors": [
+      "sika200581"
+    ]
+  },
+  {
+    "name": "Twitch Discover",
+    "authors": [
+      "CranberrySoup",
+      "sika200581"
+    ]
+  },
+  {
+    "name": "Kick Discover",
+    "authors": [
+      "sika200581"
+    ]
+  },
+  {
+    "name": "YouTube Live Discover",
+    "authors": [
+      "sika200581"
+    ]
+  },
+  {
+    "name": "Rumble Discover",
+    "authors": [
+      "sika200581"
+    ]
+  }
+]

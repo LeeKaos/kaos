@@ -1,0 +1,2150 @@
+[
+  {
+    "name": "Kaos · Eklenti",
+    "internalName": "MegaWio",
+    "pluginClassName": "wioland.WioLandPlugin",
+    "version": 3,
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/MegaWio.cs3",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "status": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Others"
+    ],
+    "apiVersion": 1,
+    "fileSize": 12581,
+    "fileHash": "sha256-81deaaad458fbd5f681bb1056eb3be018977193a7fd4dfd96b900d2dd4bad846",
+    "repositoryUrl": "https://github.com/LeeKaos/kaos"
+  },
+  {
+    "name": "Kaos · 0 WioSinema",
+    "internalName": "WioSinema",
+    "version": 78,
+    "description": "Kişisel Eklenti Depom",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/WioSinema.cs3",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "language": "tr",
+    "status": 3,
+    "fileSize": 2158802,
+    "fileHash": "sha256-1f4cd6e1feb4e3749d261fc473c21232778469e905b27fa10a6f2425e3907f65",
+    "apiVersion": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/TurkishCineStream.cs3",
+    "status": 1,
+    "version": 487,
+    "name": "Kaos · 1 TurkishCineStream",
+    "internalName": "TurkishCineStream",
+    "authors": [
+      "Wiojelt",
+      "megix"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 840939,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-ca1989aeea4c068d2315d67a72ae64e2c5c5f2c9e4436dea124b897925f5322d"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/BelgeselX.cs3",
+    "status": 3,
+    "version": 9,
+    "name": "Kaos · BelgeselX",
+    "internalName": "BelgeselX",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 137625,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-ad6312e611dab4c2a8cff5eae2d74f5a8b58b135c77565d84a4385a68c7012fd"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/DDizi.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "Kaos · DDizi",
+    "internalName": "DDizi",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 111525,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-f4216761209064eef9813b2bcb0eabe644ca3fd7c78f3f37771fe9b940bf7fe9"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/DiziBox.cs3",
+    "status": 3,
+    "version": 10,
+    "name": "Kaos · DiziBox",
+    "internalName": "DiziBox",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 117434,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-8653a810cddca50a9bdd2ce072d85b05ae212f371639b9fb23d9929d2789f2ea"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/Dizilla.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "Kaos · Dizilla",
+    "internalName": "Dizilla",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 129862,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-e5c02f0ac4aadc8dca2b207c42ef0d233fdabf681bc8c22d9b095558f9f77ee7"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/DiziBol.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Kaos · DiziBol",
+    "internalName": "DiziBol",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 132308,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-27cf33ec0d21c5a80c994fe17ed6bdf111cc761a885ca22557393c9e870ccba7"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/DiziMom.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "Kaos · DiziMom",
+    "internalName": "DiziMom",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 124866,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-e85b84e528737004c6d631ed943a63362ff8bf97878e116aa102fe837f024e9c"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/DiziPal.cs3",
+    "status": 3,
+    "version": 10,
+    "name": "Kaos · DiziPal",
+    "internalName": "DiziPal",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 127659,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-21bf0ced9b5e47dd7e15ef048d83ea190ceaa432bce2d93a9dfbc89f5208be36"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/DiziRella.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Kaos · DiziRella",
+    "internalName": "DiziRella",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 132321,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-63b2fa3ebb990f4ce708884b28b9c91baa94e2398ae1087aeff1ec56039a33eb"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/DiziYou.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Kaos · DiziYou",
+    "internalName": "DiziYou",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 108878,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-5bd69044e25872ea14d3c85c59221c0e3fb49aa20320458ec41c824a8293764c"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/Dmax.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "Kaos · Dmax",
+    "internalName": "Dmax",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 112045,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Documentary",
+      "TvSeries",
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-88f9890b8c3b5053acfb9f7c3a69f87f97170b4e421d9b83c484ba653da05792"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/FilmMakinesi.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "Kaos · FilmMakinesi",
+    "internalName": "FilmMakinesi",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 111849,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-bc7240a901895d1a5567de1d218d423c441cce4ed445427ea6e6ccaa988f1e8e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/FilmModu.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "Kaos · FilmModu",
+    "internalName": "FilmModu",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 109793,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-739fd59fb7f727cf32dad858d969f1ecc434c752cfaf37019d000ecf95f896d9"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/FullHDFilm.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Kaos · FullHDFilm",
+    "internalName": "FullHDFilm",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 118238,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-0f02c20f334719fb0bc991a68a505911769fbb1629f470df865ac93ef0320d17"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/FullHDFilmizlesene.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "Kaos · FullHDFilmizlesene",
+    "internalName": "FullHDFilmizlesene",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 128800,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-348da0105521ca0eb68a5f8e24e3837b5af77bd1789d248579c8731f4f8ef078"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/HDFilmCehennemi.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Kaos · HDFilmCehennemi",
+    "internalName": "HDFilmCehennemi",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 122597,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-f8ab7eaac85cfdc09e8089a6096cc043d7f5805caf9616ae5c69f58ee1ae0b2f"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/HDFilmDelisi.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Kaos · HDFilmDelisi",
+    "internalName": "HDFilmDelisi",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 153237,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-50d34cc85b130d266b2395b3f643992464c45a9a463e92192c6e6474fc7bf610"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/HDFilmizleBest.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "Kaos · HDFilmizleBest",
+    "internalName": "HDFilmizleBest",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 113507,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-35146b2bdc40976e4efd34646da3387b6ae85b0ddb87026b3119051798b596b1"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/HDFilmIzleInk.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Kaos · HDFilmIzleInk",
+    "internalName": "HDFilmIzleInk",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 130203,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-6d2c274dd8630a39a174610066b57666472339b518a9cc941f45b5ca682a7823"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/HDFilmIzleVip.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Kaos · HDFilmIzleVip",
+    "internalName": "HDFilmIzleVip",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 130210,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-68b9f7d968063cef354b7b45b3af3fc631d974f5d628839ae4503328ef0d2fad"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/InatBox.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "Kaos · InatBox",
+    "internalName": "InatBox",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 139681,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-a631810eedfa9b00c5f9c477b59c6c8b942674c2a00b5417b3207282412f6b56"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/JetFilmizle.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "Kaos · JetFilmizle",
+    "internalName": "JetFilmizle",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 122709,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-e3c5b80228ae32f48dd8b1e7bf69e0d6f0c9ffc1ebf23757e9db27508530f87f"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/KultFilmler.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Kaos · KultFilmler",
+    "internalName": "KultFilmler",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 117411,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-d268e7c2c7b5487e080ff8a054bc5c21add2472ca2301114472d2b340d22e845"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/LiderFilmIzle.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Kaos · LiderFilmIzle",
+    "internalName": "LiderFilmIzle",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 132333,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-451ff7ddf817292121763ae4b52717b00e5292bb8002505f4663a96f71f705f7"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/PowerSinema.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "Kaos · PowerSinema",
+    "internalName": "PowerSinema",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 125562,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "AnimeMovie",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-c598dcad72acc41e37ab30db4af20d29508dae6ddd2ff8c9ee25a2ff35f71928"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/RecTV.cs3",
+    "status": 3,
+    "version": 2,
+    "name": "Kaos · RecTV",
+    "internalName": "RecTV",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 141159,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-dedcf9974278715435d850bc525d945688b1e0e2b4837ac3f95c512c1f68b661"
+  },
+  {
+    "internalName": "SelcukFlix",
+    "name": "Kaos · SelcukFlix",
+    "version": 4,
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/SelcukFlix.cs3",
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "fileHash": "sha256-01614028e766ce620af9902e4fde231a443fd7281ad0e68fa24a3eb87d10cce0",
+    "fileSize": 123495,
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/SetFilmIzle.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Kaos · SetFilmIzle",
+    "internalName": "SetFilmIzle",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 117845,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-bca16008a420c6dbed27cf8affe669a92e9fa57b026a7818ead405f5f00248ed"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/SezonlukDizi.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "Kaos · SezonlukDizi",
+    "internalName": "SezonlukDizi",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 114593,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-e3dedf1ab02bb95da47ab4aed580857a6c246c86f31558c085fed54282387f18"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/Sinewix.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "Kaos · Sinewix",
+    "internalName": "Sinewix",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 117964,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-511ebdcfaefed0f6ec7b70c4a7151b987c094fc4ddb6e2acca101c1ee920ee99"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/Tlctr.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Kaos · Tlctr",
+    "internalName": "Tlctr",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 106352,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-44407121599e42c5bd191d0af5ef559129a8afd510517cd24155dcf5b602646f"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/TrDiziIzle.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Kaos · TrDiziIzle",
+    "internalName": "TrDiziIzle",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 132296,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-0f86e5fb6a9f78b6f9b045f1066bbac9686812a9ddd79bf6f6612292748b4174"
+  },
+  {
+    "internalName": "TvDiziler",
+    "name": "Kaos · TvDiziler",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/TvDiziler.cs3",
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "fileHash": "sha256-09aa49b326aa151d9c73f58d6c4dec50cf40bb13e688cfb0c4da38f578d8f5e8",
+    "fileSize": 2028325,
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/YabanciDizi.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Kaos · YabanciDizi",
+    "internalName": "YabanciDizi",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 137627,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-0811d212797f6a102dd2d08cae5494d32acbe9f092625571727567e41b4aa021"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/YesilCamTv.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "Kaos · YesilCamTv",
+    "internalName": "YesilCamTv",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 110174,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-b9c5f30bd0a5b46c76f812e5e2ae171fa71c3d9f6febdbbc0a2aa3250dce9f82"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/WebteIzle.cs3",
+    "status": 3,
+    "version": 15,
+    "name": "Kaos · WebteIzle",
+    "internalName": "WebteIzle",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 117745,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-04b713b4ca4675ab6df2f8868d0fcaa838af0f723be7e822ff2478f1074ce07d"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/WioCinema.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Kaos · 0 WioCinema",
+    "internalName": "WioCinema",
+    "pluginClassName": "dev.wiojelt.wiocinema.WioCinemaPlugin",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "en",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "apiVersion": 1,
+    "fileSize": 2029505,
+    "fileHash": "sha256-2ca024256f63542ebaf2b76c2d489aff038201298d9f7d4f8f42ff26e46aeb8e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/BingeBang.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "Kaos · BingeBang",
+    "internalName": "BingeBang",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 93034,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "all",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-eaab420873e962c643bca5a79f41ebf2949008aea47f61248527bbdb83c71d80"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/CineCat.cs3",
+    "status": 3,
+    "version": 2,
+    "name": "Kaos · CineCat",
+    "internalName": "CineCat",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 795072,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "all",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-112463879207b1648cc5db7d094498f3d36fadeadcecae1afdd038dc83273a9b"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/CineSimkl.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Kaos · CineSimkl",
+    "internalName": "CineSimkl",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 794476,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-b371231c4159e6805af7e4f1c29221baf3c2381876de6704f02a73ec73f425a7"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/CineStream.cs3",
+    "status": 1,
+    "version": 487,
+    "name": "Kaos · CineStream",
+    "internalName": "CineStream",
+    "authors": [
+      "megix"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 695013,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "en",
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "AsianDrama",
+      "Anime",
+      "Torrent"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-30dc643628702d6b2fe139339e59996783c95a0c1d41efe0a31872ae4d10908b"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/ClipBox.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Kaos · ClipBox",
+    "internalName": "ClipBox",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 753383,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-58b02a7562755d3f3949110f1a29545f903d1e29ffa04f164e579c1105b9e313"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/FlixNetwork.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Kaos · FlixNetwork",
+    "internalName": "FlixNetwork",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 78995,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-e9a820f249e100917a1064f9b807fb5737a2d9259b8f5d092dbe4035072b75fe"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/Mapple.cs3",
+    "status": 3,
+    "version": 4,
+    "name": "Kaos · Mapple",
+    "internalName": "Mapple",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 104393,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "all",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-0c4e17e3039d2f281698d1dd28da151d3a416cf7e8115d51c5aa8ff70629454b"
+  },
+  {
+    "internalName": "MovieBoxProvider",
+    "name": "Kaos · MovieBoxProvider",
+    "version": 47,
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/MovieBoxProvider.cs3",
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "fileHash": "sha256-5ddbfba13f10d1bb92df74d475c6c04a7c11dc108a91d72230a33aa71352b98c",
+    "fileSize": 82602,
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/RareFilmm.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Kaos · RareFilmm",
+    "internalName": "RareFilmm",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 29939,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-dc32bcfabf8f5c48cfa5b96faedb7ab79c82cd1a4d4f6aa4f967ecb056525a56"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/CizgiMax.cs3",
+    "status": 1,
+    "version": 12,
+    "name": "Kaos · CizgiMax",
+    "internalName": "CizgiMax",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 153445,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-fd42ad744bd82f38f63e645ffad96dbcbd5e5447fb3535b104b17b6f1900aff5"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/CizgiVeDizi.cs3",
+    "status": 1,
+    "version": 24,
+    "name": "Kaos · CizgiVeDizi",
+    "internalName": "CizgiVeDizi",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 145663,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-c2cb359997be05e47a0b5cfeadfa8e69e6b4facd6ee07e0b380684aa15f94fb8"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/CizgiFilmIzleInfo.cs3",
+    "status": 1,
+    "version": 6,
+    "name": "Kaos · CizgiFilmIzleInfo",
+    "internalName": "CizgiFilmIzleInfo",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 117130,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Cartoon",
+      "TvSeries",
+      "Movie"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-60c84784830eb415d7ded5184fa93b357effb1d9b848bffbc3b8eb3918daacbb"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/CizgiFilmTv.cs3",
+    "status": 1,
+    "version": 6,
+    "name": "Kaos · CizgiFilmTv",
+    "internalName": "CizgiFilmTv",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 116888,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Cartoon",
+      "TvSeries",
+      "Movie"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-a3046441506c18b316fcac7f2942ec7396c57aafc70b75950e9971f53078b345"
+  },
+  {
+    "name": "Kaos · 0 WioSpor",
+    "internalName": "WioSpor",
+    "version": 45,
+    "description": "Kişisel Eklenti Depom",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/WioSpor.cs3",
+    "tvTypes": [
+      "Live"
+    ],
+    "language": "tr",
+    "status": 3,
+    "fileSize": 653222,
+    "fileHash": "sha256-158adecb3704ce36d34968acdd3886c836f14bb702dce3ee5ccb01ba11a16997",
+    "apiVersion": 1
+  },
+  {
+    "name": "Kaos · 1 v10 Spor",
+    "internalName": "BirdirbirIPTV",
+    "version": 28,
+    "description": "Kişisel Eklenti Depom",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/BirdirbirIPTV.cs3",
+    "tvTypes": [
+      "Live"
+    ],
+    "language": "tr",
+    "status": 3,
+    "fileSize": 197921,
+    "fileHash": "sha256-47301fc094a6fed4d37b38f38e680f09d0d043d7de90bfca1f9acba6f4767dae",
+    "apiVersion": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/ArdaSpor.cs3",
+    "status": 3,
+    "version": 11,
+    "name": "Kaos · ArdaSpor",
+    "internalName": "ArdaSpor",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 138844,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-41e65871eb78e11f89c65f287fa74522375f86c7498fe10b8140ab2d0052fd42"
+  },
+  {
+    "name": "Kaos · BasketballReplays",
+    "internalName": "BasketballReplays",
+    "version": 2,
+    "description": "Kişisel Eklenti Depom",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/BasketballReplays.cs3",
+    "tvTypes": [
+      "Movie",
+      "Others"
+    ],
+    "language": "en",
+    "status": 3,
+    "fileSize": 118640,
+    "fileHash": "sha256-0d698aad07eef2db7757b12fe5bcbb31da0b446a494fc63b421344e5f280d1e3",
+    "apiVersion": 1
+  },
+  {
+    "name": "Kaos · BasketballVideo",
+    "internalName": "BasketballVideo",
+    "version": 2,
+    "description": "Kişisel Eklenti Depom",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/BasketballVideo.cs3",
+    "tvTypes": [
+      "Movie",
+      "Others"
+    ],
+    "language": "en",
+    "status": 3,
+    "fileSize": 121480,
+    "fileHash": "sha256-c8eaa24d85a22648516ef75ed74301949bd9951c8e11365b00a42d07cc0b7847",
+    "apiVersion": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/BetmatikTV.cs3",
+    "status": 3,
+    "version": 3,
+    "name": "Kaos · BetmatikTV",
+    "internalName": "BetmatikTV",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 161214,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-d460e9d5bdf67a38c48d1342c1003ea86791a082839a70fadb0f10d17c94d7e8"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/BeyazElma.cs3",
+    "status": 3,
+    "version": 10,
+    "name": "Kaos · BeyazElma",
+    "internalName": "BeyazElma",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 211483,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-eeb5407ec06ee18f92744bf28bb53978669304da70e8a5af1120b25119f27db3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/DomatesTV.cs3",
+    "status": 3,
+    "version": 4,
+    "name": "Kaos · DomatesTV",
+    "internalName": "DomatesTV",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 169751,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-412a3adf5a0fd677cfe4a0a0140202fa0a5d11a37f061ebf09b4d897552d0e5e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/DominoTV.cs3",
+    "status": 3,
+    "version": 9,
+    "name": "Kaos · DominoTV",
+    "internalName": "DominoTV",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 176253,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-070994bf6a7556e6ae04aa4b0471d0e6925495e4f6c04a316f2bca45f4e91572"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/GolgeTV.cs3",
+    "status": 1,
+    "version": 3,
+    "name": "Kaos · GolgeTV",
+    "internalName": "GolgeTV",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 179056,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-621bc0a3e1606b751f4f4faaa76eefdb58ec987a7ccc17a4bf7dcb22eec778af"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/InatTV.cs3",
+    "status": 3,
+    "version": 11,
+    "name": "Kaos · InatTV",
+    "internalName": "InatTV",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 134854,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-5d546abd8ad98e8bdd841e1023de7157ea88c0ebb7979c10148409000956269b"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/JestYayin.cs3",
+    "status": 3,
+    "version": 3,
+    "name": "Kaos · JestYayin",
+    "internalName": "JestYayin",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 177677,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-068d4a4b9686410b26512a2dd9e89da15d80897d1e5ebf4222a83a5016cccf5c"
+  },
+  {
+    "internalName": "KoolTV",
+    "name": "Kaos · Kool TV",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/KoolTV.cs3",
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "fileHash": "sha256-bf354d6dcbf40c47e473f8987ac62503ec63fbc71fb0dda686fa4dc38fc766f7",
+    "fileSize": 26410,
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/KralSporHD.cs3",
+    "status": 3,
+    "version": 4,
+    "name": "Kaos · KralSporHD",
+    "internalName": "KralSporHD",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 135396,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-8dd3da8c1e4874217973349dd787c985e6993c060a90463631895d86f85bd64f"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/MahsunSports.cs3",
+    "status": 3,
+    "version": 9,
+    "name": "Kaos · MahsunSports",
+    "internalName": "MahsunSports",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 137726,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-064712994686842a39ae1de96459a7b08ab803fb007674a86f3d0a0a7c8d4c99"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/NetVGold.cs3",
+    "status": 3,
+    "version": 3,
+    "name": "Kaos · NetVGold",
+    "internalName": "NetVGold",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 173304,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-27f39deadaf5a2295341f68a97f3f47ad8c01e48a3053cb16bf058cc50ce5a12"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/PapazSports.cs3",
+    "status": 3,
+    "version": 2,
+    "name": "Kaos · PapazSports",
+    "internalName": "PapazSports",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 132420,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-21948fbed5bfd3005a92acf83c5195b4f2e2082d8462addc464fbba389b9183f"
+  },
+  {
+    "name": "Kaos · PatronHD",
+    "internalName": "PatronHD",
+    "version": 16,
+    "description": "Kişisel Eklenti Depom",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/PatronHD.cs3",
+    "tvTypes": [
+      "Live"
+    ],
+    "language": "tr",
+    "status": 3,
+    "fileSize": 103070,
+    "fileHash": "sha256-cdb93f866389d85463c34bcfcf7e6a5e7a195efcb4596de638dc46b811f34bd6",
+    "apiVersion": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/SelcukSports.cs3",
+    "status": 3,
+    "version": 12,
+    "name": "Kaos · SelcukSports",
+    "internalName": "SelcukSports",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 133437,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-03e45df1c0eeea17ab91313acb71672af000231d7b94a486d1f37caee3d111d5"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/Streamed.cs3",
+    "status": 3,
+    "version": 3,
+    "name": "Kaos · Streamed",
+    "internalName": "Streamed",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 127154,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-b0d904ad5b9ed0fe8a9692d2752b7bd98841ad8f333703342254cf27fcf0af78"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/Taraftarium24.cs3",
+    "status": 3,
+    "version": 13,
+    "name": "Kaos · Taraftarium24",
+    "internalName": "Taraftarium24",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 135077,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-a00143104280e7bbc63d50170b55476cd7f3dea8597c2c8773c80b66c7c6035f"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/TRGoals.cs3",
+    "status": 3,
+    "version": 3,
+    "name": "Kaos · TRGoals",
+    "internalName": "TRGoals",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 225068,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-612a417f58e7e8b86ba9b212b93d696f08d60350d873519bdcd1a45d2e1c0914"
+  },
+  {
+    "name": "Kaos · VionTV",
+    "internalName": "VionTV",
+    "pluginClassName": "dev.wiojelt.viontv.VionTVPlugin",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/VionTV.cs3",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "description": "Kişisel Eklenti Depom",
+    "tvTypes": [
+      "Live"
+    ],
+    "language": "tr",
+    "status": 3,
+    "fileSize": 115738,
+    "fileHash": "sha256-6ec711b9e17087397eb5202451ff6f371f8dac8379f9953a2589ec257d031b3d",
+    "apiVersion": 1
+  },
+  {
+    "name": "Kaos · LeoTV",
+    "internalName": "LeoTV",
+    "version": 2,
+    "description": "Kişisel Eklenti Depom",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/LeoTV.cs3",
+    "tvTypes": [
+      "Live"
+    ],
+    "language": "tr",
+    "status": 3,
+    "fileSize": 156000,
+    "fileHash": "sha256-d89b1e8a559315020123433c59ace7668571f75e035f03ded047d8d03c409b96",
+    "apiVersion": 1
+  },
+  {
+    "name": "Kaos · AtomSpor",
+    "internalName": "AtomSpor",
+    "version": 2,
+    "description": "Kişisel Eklenti Depom",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/AtomSpor.cs3",
+    "tvTypes": [
+      "Live"
+    ],
+    "language": "tr",
+    "status": 3,
+    "fileSize": 153290,
+    "fileHash": "sha256-204b18cfb0f70da036c2f911a6a28e32ce41dc4efb8e8b4ddf55982413d32198",
+    "apiVersion": 1
+  },
+  {
+    "name": "Kaos · 0 WioAnime",
+    "internalName": "WioAnime",
+    "version": 2,
+    "description": "Kişisel Eklenti Depom",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/WioAnime.cs3",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "language": "tr",
+    "status": 3,
+    "fileSize": 2136064,
+    "fileHash": "sha256-b454d4c6b4e5722d4acaeb2b070ed08948237c76551a0b63e34f341b368eee9d",
+    "apiVersion": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/AnimeciX.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "Kaos · AnimeciX",
+    "internalName": "AnimeciX",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 117919,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-7407f129f50e7c67a0e8c14a70be1662f45afb9378ed4dd708965cb506660fc4"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/Anizium.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "Kaos · Anizium",
+    "internalName": "Anizium",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 94972,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-c46959e6b88dac701150b446d7d7b6551b7a9c5a010000903796dac615a92659"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/Deokwave.cs3",
+    "status": 3,
+    "version": 11,
+    "name": "Kaos · Deokwave",
+    "internalName": "Deokwave",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 130245,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-e635c2214c899f9f179a65ece3dde23c8d8e944778d90165b1c4df5bb3ed4f58"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/TRanimaci.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Kaos · TRanimaci",
+    "internalName": "TRanimaci",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 75555,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-338431ca4028e1acd371d1a22833cafb9c79388632d5869e595eda1797fdf9f0"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/TurkAnime.cs3",
+    "status": 0,
+    "version": 8,
+    "name": "Kaos · TürkAnime (o7)",
+    "internalName": "TurkAnime",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 84423,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-16e5d1b5062bd933f8f765f184f285f661611a62e3c095591ced5de035b2d98c"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/AniArsiv.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Kaos · AniArşiv",
+    "internalName": "AniArsiv",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 18514,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-61264ace6ef6d1974813edc9fa6411635a1e2a58eede2ec67bdbed86243fcc09"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/TrAnimeIzle.cs3",
+    "status": 1,
+    "version": 2,
+    "name": "Kaos · TrAnimeİzle",
+    "internalName": "TrAnimeIzle",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 29300,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-a7ead2850a4e683c9fdd7ad1a5017f46b69de98bc07d843c9a59691628527a1a"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/OpenAnime.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Kaos · OpenAnime",
+    "internalName": "OpenAnime",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 44349,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-aadca9c73a48bd8020d586daa57d9e3665e0354b6f9af87e70617e1cdf14b4a4"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/AnizmProvider.cs3",
+    "status": 1,
+    "version": 20,
+    "name": "Kaos · Anizm",
+    "internalName": "AnizmProvider",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 185479,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-69f432043a08e9a41f86a2c086208bff89179634a088e0b5b46d7913f42c16d1"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/AsyaAnimeleri.cs3",
+    "status": 3,
+    "version": 11,
+    "name": "Kaos · AsyaAnimeleri",
+    "internalName": "AsyaAnimeleri",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 126087,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-f982122eafc77e8fd00cd6b4f5a1fb76d9a17f4d94b3c143afe0b962f8591c0f"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/DiziAsya.cs3",
+    "status": 3,
+    "version": 12,
+    "name": "Kaos · DiziAsya",
+    "internalName": "DiziAsya",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 140490,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries",
+      "Movie"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-7c1d850c4fe651b31f2deebe3509e2b3254b33e031cad28bd7780c1e8810e5bb"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/DiziKorea.cs3",
+    "status": 1,
+    "version": 16,
+    "name": "Kaos · DiziKorea",
+    "internalName": "DiziKorea",
+    "authors": [
+      "Wiojelt",
+      "CloudStreamTR",
+      "kraptor"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 151209,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama",
+      "Movie"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-cbf10da5c294aa06810ed6a8879df2f75b5791beb27e0739e2594b56ac5bb1b8"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/TRasyalog.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Kaos · TRasyalog",
+    "internalName": "TRasyalog",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 77008,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-dc874cdd1b847b4f9796fc1b615581d3c11b91a508c181d4aed183ddee0a0bf4"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/AsyaWatch.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "Kaos · AsyaWatch",
+    "internalName": "AsyaWatch",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 92239,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-3a4327c7d7a67b4e96abfeea1bfd21d0517f074406dc4ce022d1389e86c91b74"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/WebDramaTurkey.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "Kaos · WebDramaTurkey",
+    "internalName": "WebDramaTurkey",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 109598,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama",
+      "Movie",
+      "Anime",
+      "Others"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-dea3ba5ac0b2dc3740cfc5aa8ed4643e46c4b218f371ee24120755811cee74e0"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/DramaDizilerim.cs3",
+    "status": 3,
+    "version": 3,
+    "name": "Kaos · DramaDizilerim",
+    "internalName": "DramaDizilerim",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 21415,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-fe481c96e7a9b29974f02668547d449da5939fe404d32d76b4afeb6398d47838"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/NetShort.cs3",
+    "status": 3,
+    "version": 2,
+    "name": "Kaos · NetShort",
+    "internalName": "NetShort",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kişisel Eklenti Depom",
+    "fileSize": 29902,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-39b537a988264af8e4579aaa049676c9b5528a21bdf4986368438130a3e36824"
+  },
+  {
+    "fileHash": "sha256-62e6f731e5aa5e201f0c7fa68219088d4bead34d81b9c33c707dbe1f9f744737",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "fileSize": 119510,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "pltmustafa"
+    ],
+    "tvTypes": [
+      "All"
+    ],
+    "version": 16,
+    "internalName": "Cloud-Sync",
+    "description": "Kişisel Eklenti Depom",
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/Cloud-Sync.cs3",
+    "name": "Kaos · Cloud-Sync"
+  },
+  {
+    "fileHash": "sha256-6f8892af2a6a8d9d839a33097268ba99ebf0719afa2c0c263c790cafe440205a",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "fileSize": 77686,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "pltmustafa"
+    ],
+    "tvTypes": [
+      "All"
+    ],
+    "version": 8,
+    "internalName": "plt-party",
+    "description": "Kişisel Eklenti Depom",
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/plt-party.cs3",
+    "name": "Kaos · plt-party"
+  },
+  {
+    "fileHash": "sha256-01da9b9941fddd0c38b295b012e04a8d650dcfb20521e1ea952227b01800ff8e",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "fileSize": 45746,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "pltmustafa"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 5,
+    "internalName": "plt-tv",
+    "description": "Kişisel Eklenti Depom",
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/plt-tv.cs3",
+    "name": "Kaos · plt-tv"
+  },
+  {
+    "fileHash": "sha256-bc0d341b51844222c5a3046f42ff2ff1aa2a0e93d41fa35bb4ad9b753227e38d",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "fileSize": 110054,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "pltmustafa"
+    ],
+    "tvTypes": [
+      "All"
+    ],
+    "version": 7,
+    "internalName": "trakt-sync",
+    "description": "Kişisel Eklenti Depom",
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/trakt-sync.cs3",
+    "name": "Kaos · trakt-sync"
+  },
+  {
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "fileSize": 124518,
+    "fileHash": "sha256-3b47e07ae249aa29f447743f5a219e2636b90fc3e7c10bd9e8c64920d492704c",
+    "status": 1,
+    "authors": [
+      "sika200581"
+    ],
+    "tvTypes": [
+      "Live",
+      "TvSeries",
+      "Movie"
+    ],
+    "version": 4,
+    "internalName": "LiveHub",
+    "description": "Kişisel Eklenti Depom",
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/LiveHub-v4.cs3",
+    "name": "Kaos · Live Hub",
+    "language": "uni"
+  },
+  {
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "fileSize": 48413,
+    "fileHash": "sha256-69f300f6d1748e879f066166090ee9134929707ef811493a4d517294cfc7a5b4",
+    "status": 1,
+    "authors": [
+      "CranberrySoup",
+      "sika200581"
+    ],
+    "tvTypes": [
+      "Live",
+      "TvSeries"
+    ],
+    "version": 9,
+    "internalName": "TwitchDiscover",
+    "description": "Kişisel Eklenti Depom",
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/TwitchDiscover.cs3",
+    "name": "Kaos · Twitch Discover",
+    "language": "uni"
+  },
+  {
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "fileSize": 56239,
+    "fileHash": "sha256-da5e511983c2e57fe6468aec66addea05d645b60b8c0f3d830ae42be8be12efc",
+    "status": 1,
+    "authors": [
+      "sika200581"
+    ],
+    "tvTypes": [
+      "Live",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "KickDiscover",
+    "description": "Kişisel Eklenti Depom",
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/KickDiscover.cs3",
+    "name": "Kaos · Kick Discover",
+    "language": "uni"
+  },
+  {
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "fileSize": 23562,
+    "fileHash": "sha256-8e9b41982506eed58707dce20f3da133e4d671a6eb160b9da450182054776790",
+    "status": 1,
+    "authors": [
+      "sika200581"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 1,
+    "internalName": "YouTubeLiveDiscover",
+    "description": "Kişisel Eklenti Depom",
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/YouTubeLiveDiscover.cs3",
+    "name": "Kaos · YouTube Live Discover",
+    "language": "uni"
+  },
+  {
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "fileSize": 26484,
+    "fileHash": "sha256-23739964011e2eba2b6420e5fd83e777d1ea4538081b91f3d000eeb3adadd265",
+    "status": 1,
+    "authors": [
+      "sika200581"
+    ],
+    "tvTypes": [
+      "Live",
+      "Movie"
+    ],
+    "version": 6,
+    "internalName": "RumbleDiscover",
+    "description": "Kişisel Eklenti Depom",
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/RumbleDiscover-v6.cs3",
+    "name": "Kaos · Rumble Discover",
+    "language": "uni"
+  }
+]
