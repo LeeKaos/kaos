@@ -1,0 +1,72 @@
+name: Build WioForge Plugins
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "build"
+  cancel-in-progress: true
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths-ignore:
+      - '*.md'
+      - 'builds/**'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kaynak kodu cek (main)
+        uses: actions/checkout@v4
+        with:
+          path: "src"
+
+      - name: builds dalini cek
+        uses: actions/checkout@v4
+        with:
+          ref: "builds"
+          path: "builds"
+
+      - name: Eski derlemeleri temizle
+        run: |
+          rm -f $GITHUB_WORKSPACE/builds/*.cs3 || true
+
+      - name: JDK 17 kur
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - name: Android SDK kur
+        uses: android-actions/setup-android@v3
+
+      - name: Eklentileri derle
+        run: |
+          cd $GITHUB_WORKSPACE/src
+          chmod +x gradlew
+          ./gradlew make makePluginsJson --no-daemon
+          find . -name "*.cs3" -exec cp {} $GITHUB_WORKSPACE/builds/ \;
+          cp build/plugins.json $GITHUB_WORKSPACE/builds/plugins.json
+
+      - name: repo.json ve repos-db.json guncelle
+        run: |
+          cd $GITHUB_WORKSPACE/builds
+          REPO="${{ github.repository }}"
+          TS=$(date +%s)
+          printf '{\n  "name": "%s",\n  "description": "WioForge ile uretilmis bagimsiz CloudStream deposu",\n  "manifestVersion": 1,\n  "pluginLists": [\n    "https://raw.githubusercontent.com/%s/builds/plugins.json?t=%s"\n  ]\n}\n' "${REPO#*/}" "$REPO" "$TS" > repo.json
+          printf '[\n  "https://raw.githubusercontent.com/%s/builds/repo.json"\n]\n' "$REPO" > repos-db.json
+
+      - name: builds dalina gonder
+        run: |
+          cd $GITHUB_WORKSPACE/builds
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add -A
+          git diff --cached --quiet && exit 0
+          git commit -m "Build $GITHUB_SHA"
+          git push

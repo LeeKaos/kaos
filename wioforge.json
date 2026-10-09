@@ -1,0 +1,18 @@
+{
+  "github_user": "LeeKaos",
+  "github_token": "",
+  "repo_name": "Kaos",
+  "repo_description": "Benim bağımsız CloudStream depom (WioForge ile üretildi)",
+  "default_branch": "main",
+  "builds_branch": "builds",
+  "source_repo": "https://github.com/Wiojelt/WioLand",
+  "repos_db_url": "https://raw.githubusercontent.com/Wiojelt/WioLand/main/repos-db.json",
+  "manifest_url": "https://raw.githubusercontent.com/Wiojelt/WioLand/main/repo.json",
+  "work_dir": "wioforge_data",
+  "protected_policy": "skip",
+  "proxy_base_url": "",
+  "server_port": 8080,
+  "plugin_author": "LeeKaos",
+  "plugin_language": "tr",
+  "plugin_status": 1
+}
