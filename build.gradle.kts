@@ -13,7 +13,7 @@ buildscript {
     dependencies {
         classpath("com.android.tools.build:gradle:8.7.3")
         classpath("com.github.recloudstream:gradle:-SNAPSHOT")
-        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:2.3.0")
+        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:2.4.0")
     }
 }
 
@@ -70,7 +70,7 @@ subprojects {
         val cloudstream by configurations
         val implementation by configurations
 
-        implementation("com.github.recloudstream.cloudstream:library:-SNAPSHOT")
+        implementation("com.github.recloudstream.cloudstream:library:master-SNAPSHOT")
 
         implementation("com.github.teamnewpipe:NewPipeExtractor:v0.25.2")
 
