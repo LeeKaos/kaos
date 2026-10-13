@@ -70,9 +70,8 @@ subprojects {
         val cloudstream by configurations
         val implementation by configurations
 
-        implementation("com.github.recloudstream.cloudstream:library:master-SNAPSHOT")
+        cloudstream("com.lagradost:cloudstream3:pre-release")
 
-        implementation("com.github.teamnewpipe:NewPipeExtractor:v0.25.2")
 
         implementation(kotlin("stdlib"))
         implementation("com.github.Blatzar:NiceHttp:0.4.11")
