@@ -2236,5 +2236,26 @@
     "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/RumbleDiscover-v6.cs3",
     "name": "Rumble Discover",
     "language": "uni"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=duzcebeltur.com&sz=128",
+    "fileHash": "sha256-4a3e1ebb3ea2450d01a263d99f8d46da62a1c88f0901e5f786d0c1895725987b",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
+    "fileSize": 11975,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "LeeKaos"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "beltur",
+    "description": "beltur — Düzce Beltur – Yöresel Ürünler",
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/beltur.cs3",
+    "name": "beltur"
   }
 ]
