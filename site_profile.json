@@ -1,0 +1,24 @@
+{
+  "url": "https://duzcebeltur.com",
+  "domain": "duzcebeltur.com",
+  "title": "Düzce Beltur – Yöresel Ürünler",
+  "search_url_template": "https://duzcebeltur.com/?s={query}",
+  "search_param": "s",
+  "search_method": "get",
+  "result_selector_hint": "article, .post, .result-item",
+  "result_title_selector": "h2, h3, .title, .name",
+  "result_poster_selector": "img",
+  "detail_url_pattern": "",
+  "episode_url_pattern": "",
+  "poster_attr": "img",
+  "has_main_page": true,
+  "is_wordpress": true,
+  "sample_query": "breaking",
+  "sample_results": [],
+  "detected_links": 47,
+  "card_class": "",
+  "notes": [
+    "WordPress tespit edildi (arama parametresi genelde 's').",
+    "Kart yapısı otomatik bulunamadı; seçiciyi elle ayarla."
+  ]
+}

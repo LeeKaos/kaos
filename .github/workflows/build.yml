@@ -1,0 +1,87 @@
+name: Build CloudStream Plugins
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "build"
+  cancel-in-progress: true
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths-ignore:
+      - '*.md'
+      - 'builds/**'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kaynak kodu cek (main)
+        uses: actions/checkout@v4
+        with:
+          path: "src"
+
+      - name: builds dalini cek
+        uses: actions/checkout@v4
+        with:
+          ref: "builds"
+          path: "builds"
+
+      - name: JDK 17 kur
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - name: Android SDK kur
+        uses: android-actions/setup-android@v3
+
+      - name: Eklentileri derle
+        run: |
+          cd $GITHUB_WORKSPACE/src
+          chmod +x gradlew
+          ./gradlew make makePluginsJson --no-daemon
+          find . -name "*.cs3" -exec cp {} $GITHUB_WORKSPACE/builds/ \;
+          python3 - <<'PY'
+          import json, os
+          from pathlib import Path
+          old_path = Path(os.environ['GITHUB_WORKSPACE']) / 'builds' / 'plugins.json'
+          new_path = Path('build/plugins.json')
+          try:
+              old = json.loads(old_path.read_text(encoding='utf-8'))
+          except (OSError, ValueError):
+              old = []
+          new = json.loads(new_path.read_text(encoding='utf-8'))
+          if not isinstance(old, list): old = []
+          if not isinstance(new, list): new = []
+          merged = {str(item.get('internalName', item.get('name', index))): item
+                    for index, item in enumerate(old) if isinstance(item, dict)}
+          for index, item in enumerate(new):
+              if isinstance(item, dict):
+                  key = str(item.get('internalName', item.get('name', f'new-{index}')))
+                  merged[key] = item
+          old_path.write_text(json.dumps(list(merged.values()), ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          PY
+
+      - name: repo.json ve repos-db.json guncelle
+        run: |
+          cd $GITHUB_WORKSPACE/builds
+          REPO="${{ github.repository }}"
+          TS=$(date +%s)
+          printf '{\n  "name": "%s",\n  "description": "Personal CloudStream plugin repository",\n  "manifestVersion": 1,\n  "pluginLists": [\n    "https://raw.githubusercontent.com/%s/builds/plugins.json?t=%s"\n  ]\n}\n' "${REPO#*/}" "$REPO" "$TS" > repo.json
+          printf '[\n  "https://raw.githubusercontent.com/%s/builds/repo.json"\n]\n' "$REPO" > repos-db.json
+
+      - name: builds dalina gonder
+        run: |
+          cd $GITHUB_WORKSPACE/builds
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add -A
+          git diff --cached --quiet && exit 0
+          git commit -m "Build $GITHUB_SHA"
+          git push
