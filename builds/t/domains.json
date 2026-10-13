@@ -1,0 +1,464 @@
+{
+  "schemaVersion": 1,
+  "sources": {
+    "betmatiktv": {
+      "candidates": [
+        "https://betmatiktv156.com/",
+        "https://betmatiktv155.com/"
+      ]
+    },
+    "ntvs": {
+      "candidates": [
+        "https://www.ntvs.cx/matches/kobra/",
+        "https://www.ntvs.cx/"
+      ]
+    },
+    "daddylive": {
+      "gateways": [
+        "https://daddylive.pk/"
+      ],
+      "candidates": [
+        "https://dlive.sx/",
+        "https://dlhd.st/",
+        "https://dlstreams.st/",
+        "https://dlhd.pk/"
+      ]
+    },
+    "streameast": {
+      "gateways": [
+        "https://streamea.st/",
+        "https://gostreameast.is/"
+      ],
+      "candidates": [
+        "https://v2.gostreameast.is/",
+        "https://v2.streameast.ga/"
+      ]
+    },
+    "papazsports": {
+      "gateways": [
+        "https://bit.ly/m/papazsports",
+        "http://sy-re.com/papaz-web"
+      ],
+      "candidates": [
+        "https://www.papazsports1023.pro/",
+        "https://www.papazsports1022.pro/"
+      ]
+    },
+    "ardaspor": {
+      "gateways": [
+        "https://www.ardasporgiris.site/"
+      ],
+      "candidates": [
+        "https://ardaspor31.top/"
+      ]
+    },
+    "mahsunsports": {
+      "gateways": [
+        "https://mahsunsports.com/"
+      ],
+      "candidates": [
+        "https://mahsunsports.xyz/",
+        "https://mahsunsports80.xyz/"
+      ]
+    },
+    "crex": {
+      "gateways": [
+        "https://crex.live/",
+        "https://crex1.vercel.app/"
+      ],
+      "candidates": [
+        "https://crex.com/",
+        "https://crex.live/"
+      ]
+    },
+    "inattv": {
+      "gateways": [
+        "https://www.inatgiris.com/"
+      ],
+      "candidates": [
+        "https://inattvizle486.top/",
+        "https://www.inattvizle489.top/",
+        "https://www.inattvizle488.top/"
+      ]
+    },
+    "taraftarium24": {
+      "gateways": [
+        "https://taraftarium24.ch/"
+      ],
+      "candidates": [
+        "https://inattv1325.xyz/",
+        "https://inattv1324.xyz/",
+        "https://inattv1323.xyz/",
+        "https://inattv1322.xyz/"
+      ]
+    },
+    "selcuksports": {
+      "gateways": [
+        "https://www.selcuksportshd.is/"
+      ],
+      "candidates": [
+        "https://www.selcuksportshdfe44b96fcb.xyz/",
+        "https://www.selcuksportshd01390f9702.xyz/",
+        "https://www.selcuksportshdbd813bd00f.xyz/"
+      ]
+    },
+    "mackeyfi": {
+      "candidates": [
+        "https://www.mackeyfi605.sbs/",
+        "https://www.mackeyfi559.sbs/",
+        "https://www.canlimaclar559.sbs/"
+      ]
+    },
+    "zbahistv": {
+      "candidates": [
+        "https://101baywintv.live/",
+        "https://100baywintv.live/",
+        "https://99baywintv.live/"
+      ]
+    },
+    "intersportv": {
+      "candidates": [
+        "https://intersportv1.live/"
+      ]
+    },
+    "beyazelma": {
+      "candidates": [
+        "https://beyazelma78.com/"
+      ],
+      "fallbackChannels": [
+        {
+          "id": "bein-sports-1-4k",
+          "title": "Bein Sports 1 4K",
+          "players": [
+            "https://beyazelma78.com/kanal/bein-sports-1-4k"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/bein-sports-1-4k.png"
+        },
+        {
+          "id": "bein-sports-1-fhd",
+          "title": "Bein Sports 1 FHD",
+          "players": [
+            "https://beyazelma78.com/kanal/bein-sports-1-fhd"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/bein-sports-1-fhd.png"
+        },
+        {
+          "id": "bein-sports-2",
+          "title": "Bein Sports 2",
+          "players": [
+            "https://beyazelma78.com/kanal/bein-sports-2"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/bein-sports-2.png"
+        },
+        {
+          "id": "bein-sports-3",
+          "title": "Bein Sports 3",
+          "players": [
+            "https://beyazelma78.com/kanal/bein-sports-3"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/bein-sports-3.png"
+        },
+        {
+          "id": "bein-sports-4",
+          "title": "Bein Sports 4",
+          "players": [
+            "https://beyazelma78.com/kanal/bein-sports-4"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/bein-sports-4.png"
+        },
+        {
+          "id": "bein-sports-5",
+          "title": "Bein Sports 5",
+          "players": [
+            "https://beyazelma78.com/kanal/bein-sports-5"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/bein-sports-5.png"
+        },
+        {
+          "id": "bein-connect-1",
+          "title": "Bein Connect 1",
+          "players": [
+            "https://beyazelma78.com/kanal/bein-connect-1"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/bein-connect-1.png"
+        },
+        {
+          "id": "bein-sports-max-1",
+          "title": "Bein Sports MAX 1",
+          "players": [
+            "https://beyazelma78.com/kanal/bein-sports-max-1"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/bein-sports-max-1.png"
+        },
+        {
+          "id": "bein-sports-max-2",
+          "title": "Bein Sports MAX 2",
+          "players": [
+            "https://beyazelma78.com/kanal/bein-sports-max-2"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/bein-sports-max-2.png"
+        },
+        {
+          "id": "s-sport-1",
+          "title": "S SPORT 1",
+          "players": [
+            "https://beyazelma78.com/kanal/s-sport-1"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/s-sport-1.png"
+        },
+        {
+          "id": "s-sport-2",
+          "title": "S SPORT 2",
+          "players": [
+            "https://beyazelma78.com/kanal/s-sport-2"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/s-sport-2.png"
+        },
+        {
+          "id": "s-sport",
+          "title": "S SPORT+",
+          "players": [
+            "https://beyazelma78.com/kanal/s-sport"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/s-sport.png"
+        },
+        {
+          "id": "s-sport-2-2",
+          "title": "S SPORT+ 2",
+          "players": [
+            "https://beyazelma78.com/kanal/s-sport-2-2"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/s-sport-2-2.png"
+        },
+        {
+          "id": "s-sport-3",
+          "title": "S SPORT + 3",
+          "players": [
+            "https://beyazelma78.com/kanal/s-sport-3"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/s-sport-3.png"
+        },
+        {
+          "id": "s-sport-4",
+          "title": "S SPORT+ 4",
+          "players": [
+            "https://beyazelma78.com/kanal/s-sport-4"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/s-sport-4.png"
+        },
+        {
+          "id": "s-sport-5",
+          "title": "S SPORT+ 5",
+          "players": [
+            "https://beyazelma78.com/kanal/s-sport-5"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/s-sport-5.png"
+        },
+        {
+          "id": "s-sport6",
+          "title": "S SPORT+6",
+          "players": [
+            "https://beyazelma78.com/kanal/s-sport6"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/s-sport6.png"
+        },
+        {
+          "id": "atv",
+          "title": "ATV",
+          "players": [
+            "https://beyazelma78.com/kanal/atv"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/atv.png"
+        },
+        {
+          "id": "a-spor",
+          "title": "A SPOR",
+          "players": [
+            "https://beyazelma78.com/kanal/a-spor"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/a-spor.png"
+        },
+        {
+          "id": "a-haber",
+          "title": "A HABER",
+          "players": [
+            "https://beyazelma78.com/kanal/a-haber"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/a-haber.png"
+        },
+        {
+          "id": "a2",
+          "title": "A2",
+          "players": [
+            "https://beyazelma78.com/kanal/a2"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/a2.png"
+        },
+        {
+          "id": "tv8",
+          "title": "TV8",
+          "players": [
+            "https://beyazelma78.com/kanal/tv8"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/tv8.png"
+        },
+        {
+          "id": "tv-85",
+          "title": "TV 8,5",
+          "players": [
+            "https://beyazelma78.com/kanal/tv-85"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/tv-85.png"
+        },
+        {
+          "id": "exxen-spor",
+          "title": "EXXEN SPOR",
+          "players": [
+            "https://beyazelma78.com/kanal/exxen-spor"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/exxen-spor.png"
+        },
+        {
+          "id": "exxen-spor-2",
+          "title": "EXXEN SPOR 2",
+          "players": [
+            "https://beyazelma78.com/kanal/exxen-spor-2"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/exxen-spor-2.png"
+        },
+        {
+          "id": "trt-1",
+          "title": "TRT 1",
+          "players": [
+            "https://beyazelma78.com/kanal/trt-1"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/trt-1.png"
+        },
+        {
+          "id": "trt-spor",
+          "title": "TRT SPOR",
+          "players": [
+            "https://beyazelma78.com/kanal/trt-spor"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/trt-spor.png"
+        },
+        {
+          "id": "trt-turk",
+          "title": "TRT TÃRK",
+          "players": [
+            "https://beyazelma78.com/kanal/trt-turk"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/trt-turk.png"
+        },
+        {
+          "id": "tabii-spor",
+          "title": "Tabii Spor",
+          "players": [
+            "https://beyazelma78.com/kanal/tabii-spor"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/tabii-spor.png"
+        },
+        {
+          "id": "tabii-spor-1",
+          "title": "Tabii Spor 1",
+          "players": [
+            "https://beyazelma78.com/kanal/tabii-spor-1"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/tabii-spor-1.png"
+        },
+        {
+          "id": "tabii-spor-2",
+          "title": "Tabii Spor 2",
+          "players": [
+            "https://beyazelma78.com/kanal/tabii-spor-2"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/tabii-spor-2.png"
+        },
+        {
+          "id": "tabii-spor-3",
+          "title": "Tabii Spor 3",
+          "players": [
+            "https://beyazelma78.com/kanal/tabii-spor-3"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/tabii-spor-3.png"
+        },
+        {
+          "id": "tabii-spor-4",
+          "title": "Tabii Spor 4",
+          "players": [
+            "https://beyazelma78.com/kanal/tabii-spor-4"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/tabii-spor-4.png"
+        },
+        {
+          "id": "tabii-spor-5",
+          "title": "Tabii Spor 5",
+          "players": [
+            "https://beyazelma78.com/kanal/tabii-spor-5"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/tabii-spor-5.png"
+        },
+        {
+          "id": "tivibu-spor",
+          "title": "TÄ°VÄ°BU SPOR",
+          "players": [
+            "https://beyazelma78.com/kanal/tivibu-spor"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/tivibu-spor.png"
+        },
+        {
+          "id": "tivibu-spor-2",
+          "title": "TÄ°VÄ°BU SPOR 2",
+          "players": [
+            "https://beyazelma78.com/kanal/tivibu-spor-2"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/tivibu-spor-2.png"
+        },
+        {
+          "id": "smart-spor",
+          "title": "SMART SPOR",
+          "players": [
+            "https://beyazelma78.com/kanal/smart-spor"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/smart-spor.png"
+        },
+        {
+          "id": "tv-100",
+          "title": "TV 100",
+          "players": [
+            "https://beyazelma78.com/kanal/tv-100"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/tv-100.png"
+        },
+        {
+          "id": "ufc",
+          "title": "UFC",
+          "players": [
+            "https://beyazelma78.com/kanal/ufc"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/ufc.png"
+        },
+        {
+          "id": "dazn",
+          "title": "DAZN",
+          "players": [
+            "https://beyazelma78.com/kanal/dazn"
+          ],
+          "logo": "https://beyazelma78.com/api/media/channels/dazn.png"
+        }
+      ]
+    },
+    "kralsportshd": {
+      "gateways": [
+        "https://kralsportshd5.xyz/",
+        "https://kralsportshd4.xyz/"
+      ],
+      "candidates": [
+        "https://kralsportshd.com/",
+        "https://kralsportshd7.xyz/",
+        "https://kralsportshd6.xyz/",
+        "https://kralsportshd5.xyz/"
+      ]
+    }
+  }
+}
