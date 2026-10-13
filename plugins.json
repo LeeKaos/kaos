@@ -1104,24 +1104,24 @@
     "fileHash": "sha256-a3046441506c18b316fcac7f2942ec7396c57aafc70b75950e9971f53078b345"
   },
   {
-    "url": "https://raw.githubusercontent.com/LeeKaos/Kaos/builds/plugins/WioSpor.cs3",
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/WioSpor.cs3",
     "status": 3,
-    "version": 46,
+    "version": 47,
     "name": "0 WioSpor",
     "internalName": "WioSpor",
     "authors": [
       "Wiojelt"
     ],
     "description": "Tüm canlı TV ve spor kanalları tek eklentide. Renk grupları ve alternatif yayın kaynakları.",
-    "fileSize": 694749,
-    "repositoryUrl": "https://github.com/LeeKaos/Kaos",
+    "fileSize": 694750,
+    "repositoryUrl": "https://github.com/LeeKaos/kaos",
     "language": "tr",
     "tvTypes": [
       "Live"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/LeeKaos/Kaos/builds/assets/logo.png",
+    "iconUrl": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-a759895daa3757a0b689b2d99f92ed81076bfcbfee47d4056c07bb4e5be282e4"
+    "fileHash": "sha256-142bf5fbbcdbe08853e9633d69d26a08318bb2fde6845dc97ed6a48d65841678"
   },
   {
     "name": "1 v10 Spor",
