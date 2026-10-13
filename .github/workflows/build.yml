@@ -46,7 +46,17 @@ jobs:
         run: |
           cd $GITHUB_WORKSPACE/src
           chmod +x gradlew
-          ./gradlew make makePluginsJson --no-daemon
+          build_ok=0
+          for attempt in 1 2 3; do
+            if [ "$attempt" -eq 1 ]; then
+              if ./gradlew make makePluginsJson --no-daemon; then build_ok=1; break; fi
+            else
+              echo "Gradle/JitPack indirmesi başarısız; $attempt. deneme yenilenen bağımlılık önbelleğiyle başlıyor."
+              if ./gradlew make makePluginsJson --no-daemon --refresh-dependencies; then build_ok=1; break; fi
+            fi
+            if [ "$attempt" -lt 3 ]; then sleep $((attempt * 20)); fi
+          done
+          test "$build_ok" -eq 1
           find . -name "*.cs3" -exec cp {} $GITHUB_WORKSPACE/builds/ \;
           python3 - <<'PY'
           import json, os
