@@ -42,27 +42,35 @@ jobs:
         uses: android-actions/setup-android@v4
         with:
           packages: platform-tools
+
       - name: Eklentileri derle
         run: |
           cd $GITHUB_WORKSPACE/src
           chmod +x gradlew
-          build_ok=0
-          for attempt in 1 2 3; do
-            if [ "$attempt" -eq 1 ]; then
-              if ./gradlew make makePluginsJson --no-daemon; then build_ok=1; break; fi
-            else
-              echo "Gradle/JitPack indirmesi başarısız; $attempt. deneme yenilenen bağımlılık önbelleğiyle başlıyor."
-              if ./gradlew make makePluginsJson --no-daemon --refresh-dependencies; then build_ok=1; break; fi
-            fi
-            if [ "$attempt" -lt 3 ]; then sleep $((attempt * 20)); fi
-          done
-          test "$build_ok" -eq 1
+          if find . -mindepth 2 -name 'build.gradle.kts' -print -quit | grep -q .; then
+            build_ok=0
+            for attempt in 1 2 3; do
+              if [ "$attempt" -eq 1 ]; then
+                if ./gradlew make makePluginsJson --no-daemon; then build_ok=1; break; fi
+              else
+                echo "Gradle/JitPack indirmesi başarısız; $attempt. deneme yenilenen bağımlılık önbelleğiyle başlıyor."
+                if ./gradlew make makePluginsJson --no-daemon --refresh-dependencies; then build_ok=1; break; fi
+              fi
+              if [ "$attempt" -lt 3 ]; then sleep $((attempt * 20)); fi
+            done
+            test "$build_ok" -eq 1
+          else
+            echo "Derlenecek site projesi kalmadı; mevcut katalog korunup seçili içerikler temizlenecek."
+            mkdir -p build
+            printf '[]\n' > build/plugins.json
+          fi
           find . -name "*.cs3" -exec cp {} $GITHUB_WORKSPACE/builds/ \;
           python3 - <<'PY'
           import json, os
           from pathlib import Path
           old_path = Path(os.environ['GITHUB_WORKSPACE']) / 'builds' / 'plugins.json'
           new_path = Path('build/plugins.json')
+          disabled_path = Path(os.environ['GITHUB_WORKSPACE']) / 'src' / 'disabled_plugins.json'
           try:
               old = json.loads(old_path.read_text(encoding='utf-8'))
           except (OSError, ValueError):
@@ -70,13 +78,35 @@ jobs:
           new = json.loads(new_path.read_text(encoding='utf-8'))
           if not isinstance(old, list): old = []
           if not isinstance(new, list): new = []
+          try:
+              disabled = json.loads(disabled_path.read_text(encoding='utf-8'))
+          except (OSError, ValueError):
+              disabled = {}
+          disabled_names = set(disabled.get('internalNames', []))
+          disabled_files = {Path(str(x)).name.lower() for x in disabled.get('files', [])}
+          disabled_projects = {str(x).lower() for x in disabled.get('projects', [])}
           merged = {str(item.get('internalName', item.get('name', index))): item
                     for index, item in enumerate(old) if isinstance(item, dict)}
           for index, item in enumerate(new):
               if isinstance(item, dict):
                   key = str(item.get('internalName', item.get('name', f'new-{index}')))
                   merged[key] = item
-          old_path.write_text(json.dumps(list(merged.values()), ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          kept = []
+          removed_files = set(disabled_files)
+          for key, item in merged.items():
+              url = str(item.get('url', '')).split('?', 1)[0]
+              filename = Path(url).name.lower()
+              name = str(item.get('name', '')).lower()
+              remove = key in disabled_names or filename in disabled_files or any(slug in name for slug in disabled_projects)
+              if remove:
+                  if filename.endswith('.cs3'):
+                      removed_files.add(filename)
+              else:
+                  kept.append(item)
+          old_path.write_text(json.dumps(kept, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          for package in (Path(os.environ['GITHUB_WORKSPACE']) / 'builds').glob('*.cs3'):
+              if package.name.lower() in removed_files:
+                  package.unlink()
           PY
 
       - name: repo.json ve repos-db.json guncelle
