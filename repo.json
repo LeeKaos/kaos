@@ -1,0 +1,9 @@
+{
+  "name": "kaos",
+  "description": "Benim bağımsız CloudStream depom (WioForge ile üretildi)",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins.json"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/assets/logo.png"
+}
