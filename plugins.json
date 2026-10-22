@@ -1,0 +1,20 @@
+[
+  {
+    "internalName": "MegaWio",
+    "name": "MegaWio",
+    "version": "3",
+    "description": "WioSinema, WioSpor, WioCinema, WioKids, WioAnime, WioAsya, WioDrama, PltStream ve CloudStream Live Hub depolarını ekler.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "language": "tr",
+    "status": 1,
+    "tvTypes": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins/MegaWio.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/LeeKaos/kaos/builds/assets/MegaWio.png",
+    "size": 12581,
+    "sha256": "81deaaad458fbd5f681bb1056eb3be018977193a7fd4dfd96b900d2dd4bad846"
+  }
+]

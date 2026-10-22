@@ -1,0 +1,8 @@
+{
+  "name": "WioForge Mirror",
+  "description": "WioForge mirrored CloudStream repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/LeeKaos/kaos/builds/plugins.json"
+  ]
+}
